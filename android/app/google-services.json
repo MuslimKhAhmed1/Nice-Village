@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "148240534200",
+    "project_id": "nice-village",
+    "storage_bucket": "nice-village.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148240534200:android:1af396306b39174b83824d",
+        "android_client_info": {
+          "package_name": "com.example.nicevillage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBddtPgbtUKk8_gABqRwVaNsW9OXZ9aMC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
