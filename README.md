@@ -1,3 +1,3 @@
-# nice_village
+# Nice-Village
 
 A new Flutter project.
